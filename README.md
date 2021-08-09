@@ -1,6 +1,6 @@
 # scrap
 
-This is a minimal command line application to scrape and print exact washington post urls.
+This is a minimal command line application to scrape and print the content of washington post urls.
 
 
 ### How to use
